@@ -2,11 +2,11 @@
     padding: 0; margin: 0;
 }
 h2{
-	color:#50626C;
+	color:white;
 	text-align: center;
 	font-family: arial;
 	text-transform: uppercase;
-	border: 3px solid #f1f1f1;
+	border: 0px solid #f1f1f1;
 	padding: 5px;
 	width: 490px;
 	margin: auto;
@@ -15,7 +15,8 @@ h2{
 }
 form {
     border: 3px solid #f1f1f1;
-    font-family: arial;
+	font-family: arial;
+	background-color: #b0f957;
     width: 500px;
     margin: auto;
 }
@@ -33,7 +34,7 @@ label{
 	text-transform: uppercase;
 }
 button {
-    background-color: #049372;
+    background-color: #8b3fba;
     color: white;
     padding: 14px 20px;
     margin: 8px 0;
